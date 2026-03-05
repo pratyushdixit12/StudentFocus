@@ -1,2 +1,2 @@
 
-struct LoginView()
+struct LoginView(){}
