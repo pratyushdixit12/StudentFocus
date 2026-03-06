@@ -11,7 +11,7 @@ import SwiftUI
 struct studentfocusApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AuthRouterView()
         }
     }
 }
